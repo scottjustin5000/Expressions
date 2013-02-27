@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionExpression", "Expressions\ReflectionExpression.csproj", "{ADC893BA-C7E5-4A26-BAA5-BADA36A6DFB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionEvaluator", "ExpressionEvaluator\ExpressionEvaluator.csproj", "{D5AD8379-762E-47E3-9732-B156B1331E7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expression.Tests", "Expression.Tests\Expression.Tests.csproj", "{02346034-579D-4023-8843-0B221FB9FF8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADC893BA-C7E5-4A26-BAA5-BADA36A6DFB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC893BA-C7E5-4A26-BAA5-BADA36A6DFB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC893BA-C7E5-4A26-BAA5-BADA36A6DFB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC893BA-C7E5-4A26-BAA5-BADA36A6DFB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5AD8379-762E-47E3-9732-B156B1331E7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5AD8379-762E-47E3-9732-B156B1331E7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5AD8379-762E-47E3-9732-B156B1331E7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5AD8379-762E-47E3-9732-B156B1331E7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02346034-579D-4023-8843-0B221FB9FF8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02346034-579D-4023-8843-0B221FB9FF8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02346034-579D-4023-8843-0B221FB9FF8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02346034-579D-4023-8843-0B221FB9FF8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
